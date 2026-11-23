@@ -4,12 +4,6 @@
 
 ---
 
-# Hey, I'm Stephanie! 👋🏾
-
-### 💻 Software Engineer | 🤖 AI-Assisted Development | 📚 Technical Educator
-
-*Building software. Exploring AI. Making technology accessible.*
-
 I'm a software engineer and technical educator who enjoys transforming complex ideas into practical, approachable solutions.
 
 My experience spans enterprise software development, full-stack engineering, and teaching programming to learners of all ages. I'm passionate about combining technology, creativity, and education to build meaningful experiences.
