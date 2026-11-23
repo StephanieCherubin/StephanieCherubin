@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="stephanie-banner.png" alt="Stephanie — Software Engineer, AI-Assisted Developer, and Technical Educator" width="100%" />
+  <img src="Stephanie’s Neon Tech Workspace.png" alt="Stephanie — Software Engineer, AI-Assisted Developer, and Technical Educator" width="100%" />
 </div>
 
 ---
